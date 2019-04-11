@@ -1,3 +1,7 @@
+# scr1.py
+# Mikhail Kolodin, 2019
+# python3, user virtualenv
+
 import scrapy
 
 class BlogSpider(scrapy.Spider):
