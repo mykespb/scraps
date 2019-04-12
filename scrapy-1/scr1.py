@@ -1,6 +1,7 @@
 # scr1.py
 # Mikhail Kolodin, 2019
 # python3, user virtualenv
+# text from docs to make futher tests
 
 import scrapy
 
